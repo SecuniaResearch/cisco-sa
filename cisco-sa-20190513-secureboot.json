@@ -1,5 +1,4 @@
 {
-  "version": "1.0",
   "products": [
     {
       "bug_id": "CSCvn77246",
@@ -8,10 +7,10 @@
         "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Fixed",
         "product_name": "None"
       }
@@ -23,11 +22,11 @@
         "Firmware Release: fxos-k8-fp2k-firmware.1009.0200.0213.SPA (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [
-          "2.6.1.134"
-        ],
         "affected_releases": [
           "all"
+        ],
+        "fixed_releases": [
+          "2.6.1.134"
         ],
         "status": "Open",
         "product_name": "None"
@@ -40,10 +39,10 @@
         "Firmware bundle package 1.0.18 with Rommon rev 1.0.15 and fpga rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Fixed",
         "product_name": "None"
       }
@@ -55,10 +54,10 @@
         "Firmware bundle package 1.0.18 with Rommon rev 1.0.15 and fpga rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Fixed",
         "product_name": "None"
       }
@@ -70,10 +69,10 @@
         "11.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms"
       }
@@ -85,10 +84,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -100,10 +99,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco cBR Series Converged Broadband Routers"
       }
@@ -115,21 +114,13 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
-    },
-    {
-      "bug_id": "CSCvn77222",
-      "product": "Cisco 1000 Series Connected Grid Routers",
-      "fix": [
-        "Cisco IOS Software Release 15.8.3(M3) (Jul 2019)"
-      ],
-      "bug_data": null
     },
     {
       "bug_id": "CSCvn89140",
@@ -138,10 +129,10 @@
         "Cisco IOS Software Release 15.8.3(M3) (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -153,10 +144,10 @@
         "Cisco IOS Software Release 15.8.3(M3) (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -168,10 +159,10 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -183,10 +174,10 @@
         "Firmware release 1.0.05 (image name: isa3000-firmware-1005.SPA) May 2019"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -198,10 +189,10 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Branch Routers1235"
       }
@@ -213,10 +204,10 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Branch Routers1235"
       }
@@ -228,10 +219,10 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Branch Routers1235"
       }
@@ -243,10 +234,10 @@
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Branch Routers1235"
       }
@@ -258,10 +249,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -273,10 +264,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -288,10 +279,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -303,10 +294,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -318,10 +309,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -333,10 +324,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -348,10 +339,10 @@
         "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "Pilot"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -363,10 +354,10 @@
         "Release no. TBD (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -378,10 +369,10 @@
         "Cisco IOS Software Release 15.8.3(M3)Oa (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -393,10 +384,10 @@
         "Cisco IOS Software Release 15.8.3(M2)Oa (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -408,10 +399,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -423,10 +414,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -438,10 +429,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -453,10 +444,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -468,10 +459,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -483,10 +474,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -498,10 +489,10 @@
         "Release no. TBD (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "3.1(80)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -513,10 +504,10 @@
         "Release no. TBD (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -528,10 +519,10 @@
         "Release no. TBD (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco 1000 Series Routers"
       }
@@ -543,10 +534,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 900 Series Aggregation Services Routers"
       }
@@ -558,10 +549,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 900 Series Aggregation Services Routers"
       }
@@ -573,10 +564,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 900 Series Aggregation Services Routers"
       }
@@ -588,10 +579,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 900 Series Aggregation Services Routers"
       }
@@ -603,10 +594,10 @@
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -618,10 +609,10 @@
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -633,10 +624,10 @@
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -648,10 +639,10 @@
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -663,10 +654,10 @@
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -678,10 +669,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -693,10 +684,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -708,10 +699,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -723,10 +714,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -738,10 +729,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -753,10 +744,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 920 Series Aggregation Services Router"
       }
@@ -768,10 +759,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 920 Series Aggregation Services Router"
       }
@@ -783,10 +774,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 920 Series Aggregation Services Router"
       }
@@ -798,10 +789,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -813,10 +804,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -828,10 +819,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -843,10 +834,10 @@
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -858,10 +849,10 @@
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ASR 9000 Series Aggregation Services Routers"
       }
@@ -873,10 +864,10 @@
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -888,10 +879,10 @@
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -903,10 +894,10 @@
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -918,10 +909,10 @@
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -933,10 +924,10 @@
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -948,10 +939,10 @@
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -963,10 +954,10 @@
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -978,10 +969,10 @@
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -993,10 +984,10 @@
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 6500 Series Switches"
       }
@@ -1008,10 +999,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -1023,10 +1014,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1038,10 +1029,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1053,10 +1044,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1068,10 +1059,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1083,10 +1074,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500 Series Switches"
       }
@@ -1098,10 +1089,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1113,10 +1104,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500 Series Switches"
       }
@@ -1128,10 +1119,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1143,10 +1134,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500 Series Switches"
       }
@@ -1158,10 +1149,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
       }
@@ -1173,10 +1164,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500 Series Switches"
       }
@@ -1188,12 +1179,55 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Catalyst 9500H Series Switches"
+      }
+    },
+    {
+      "bug_id": "CSCvn95346",
+      "product": "Cisco Catalyst 9600 Supervisor Engine-1",
+      "fix": [
+        "16.12.1 (Jul 2019)"
+      ],
+      "bug_data": {
+        "affected_releases": [
+          "0.1(2)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "None"
+      }
+    },
+    {
+      "bug_id": "CSCvn77165",
+      "product": "Cisco Catalyst 9800-40 Wireless Controller",
+      "fix": [
+        "Release no. TBD (May 2019)"
+      ],
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers"
+      }
+    },
+    {
+      "bug_id": "CSCvn77163",
+      "product": "Cisco Catalyst 9800-80 Wireless Controller",
+      "fix": [
+        "Release no. TBD (June 2019)"
+      ],
+      "bug_data": {
+        "affected_releases": [],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers"
       }
     },
     {
@@ -1202,7 +1236,14 @@
       "fix": [
         "Firmware Release 1.0.2 (image name ic3000-K9-1.0.3.SPA) (Jun 2019)"
       ],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "1.0(0)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "None"
+      }
     },
     {
       "bug_id": "CSCvn77141",
@@ -1211,10 +1252,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1226,10 +1267,10 @@
         "11.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms"
       }
@@ -1241,10 +1282,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1256,10 +1297,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1271,10 +1312,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1286,10 +1327,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1301,10 +1342,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1316,10 +1357,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1331,10 +1372,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1346,10 +1387,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1361,10 +1402,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1376,10 +1417,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1391,10 +1432,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1406,10 +1447,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1421,10 +1462,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1436,10 +1477,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1451,10 +1492,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1466,10 +1507,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1481,10 +1522,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1496,10 +1537,10 @@
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "1.0"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Carrier Routing System"
       }
@@ -1511,10 +1552,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1526,10 +1567,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1541,10 +1582,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1556,10 +1597,10 @@
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Network Convergence System 5000 Series"
       }
@@ -1570,7 +1611,14 @@
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "6.0(2)U1(1)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77245",
@@ -1578,7 +1626,14 @@
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "6.0(2)U1(1)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77245",
@@ -1586,7 +1641,14 @@
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "6.0(2)U1(1)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77245",
@@ -1594,7 +1656,14 @@
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "6.0(2)U1(1)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77141",
@@ -1603,10 +1672,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1618,10 +1687,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1633,10 +1702,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1648,10 +1717,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1663,10 +1732,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1678,10 +1747,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1693,10 +1762,10 @@
         "Release no. TBD (Oct 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -1708,10 +1777,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco cBR Series Converged Broadband Routers"
       }
@@ -1723,10 +1792,10 @@
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco cBR Series Converged Broadband Routers"
       }
@@ -1738,10 +1807,10 @@
         "Cisco NX-OS Software Release 8.4.1 (May 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches"
       }
@@ -1753,10 +1822,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1768,10 +1837,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1783,10 +1852,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1798,10 +1867,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1813,10 +1882,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1828,10 +1897,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1843,10 +1912,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1858,10 +1927,10 @@
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "Cisco Nexus 9000 Series Switches"
       }
@@ -1870,13 +1939,27 @@
       "bug_id": "CSCvn77142",
       "product": "Supervisor A+ for Nexus 9500 (N9K-SUP-A+)",
       "fix": [],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "99.99(99)CI9(1.42)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77142",
       "product": "Supervisor B+ for Nexus 9500 (N9K-SUP-B+)",
       "fix": [],
-      "bug_data": null
+      "bug_data": {
+        "affected_releases": [
+          "99.99(99)CI9(1.42)"
+        ],
+        "fixed_releases": [],
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches"
+      }
     },
     {
       "bug_id": "CSCvn77151",
@@ -1885,10 +1968,10 @@
         "Release no. TBD (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
@@ -1900,13 +1983,14 @@
         "Release no. TBD (Sep 2019)"
       ],
       "bug_data": {
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
+        "fixed_releases": [],
         "status": "Open",
         "product_name": "None"
       }
     }
-  ]
+  ],
+  "version": "1.1"
 }
