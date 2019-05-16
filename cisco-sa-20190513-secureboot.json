@@ -1,1998 +1,1923 @@
 {
-  "version": "1.2",
   "products": [
     {
-      "product": "Cisco ASA models 5506-X, 5506W-X, 5506H-X, 5508-X and 5516-X.",
+      "bug_id": "CSCvn77246",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
       ],
+      "product": "Cisco ASA 5506-X with FirePOWER Services"
+    },
+    {
       "bug_id": "CSCvn77246",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed"
-      }
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
+      ],
+      "product": "Cisco ASA 5506H-X with FirePOWER Services"
     },
     {
-      "product": "Cisco Firepower 2100 Series",
+      "bug_id": "CSCvn77246",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
-        "Firmware Release: fxos-k8-fp2k-firmware.1009.0200.0213.SPA (May 2019)"
+        "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
       ],
+      "product": "Cisco ASA 5506W-X with FirePOWER Services"
+    },
+    {
+      "bug_id": "CSCvn77246",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
+      ],
+      "product": "Cisco ASA 5508-X with FirePOWER Services"
+    },
+    {
+      "bug_id": "CSCvn77246",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware Release 1.1.15 (image name: asa5500-firmware-1115.SPA) (May 2019)"
+      ],
+      "product": "Cisco ASA 5516-X with FirePOWER Services"
+    },
+    {
       "bug_id": "CSCvn77248",
       "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed",
         "product_name": "None",
         "fixed_releases": [
           "2.6.1.134"
-        ],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Fixed"
-      }
+        ]
+      },
+      "fix": [
+        "Firmware Release: fxos-k8-fp2k-firmware.1009.0200.0213.SPA (May 2019)"
+      ],
+      "product": "Cisco Firepower 2100 Series"
     },
     {
-      "product": "Cisco Firepower 4000 Series",
-      "fix": [
-        "Firmware bundle package 1.0.18 with Rommon rev 1.0.15 and fpga rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
-      ],
       "bug_id": "CSCvn77249",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed"
-      }
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware bundle package v1.0.18 with ROMMON rev 1.0.15 and FPGA rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
+      ],
+      "product": "Cisco Firepower 4000 Series"
     },
     {
-      "product": "Cisco Firepower 9000 Series",
-      "fix": [
-        "Firmware bundle package 1.0.18 with Rommon rev 1.0.15 and fpga rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
-      ],
       "bug_id": "CSCvn77249",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed"
-      }
+        "status": "Fixed",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware bundle package v1.0.18 with ROMMON rev 1.0.15 and FPGA rev 2.0: (Image Names: fxos-k9-fpr9k-firmware.1.0.18.SPA and fxos-k9-fpr4k-firmware.1.0.18.SPA)\n(May 2019)"
+      ],
+      "product": "Cisco Firepower 9000 Series"
     },
     {
-      "product": "10Gbps Optical Encryption Line Card for the Cisco NCS 2000 Series and Cisco ONS 15454 MSTP (15454-M-WSE-K9)",
-      "fix": [
-        "11.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77191",
       "bug_data": {
-        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
-        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "C9500-40X: Cisco Catalyst 9500 Series Switch with 40x 1/10G Gigabit Ethernet (C9500-12Q)",
+        "status": "Open",
+        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
+        "fixed_releases": []
+      },
       "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
+        "11.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
+      "product": "10Gbps Optical Encryption Line Card for the Cisco NCS 2000 Series and Cisco ONS 15454 MSTP (15454-M-WSE-K9)"
     },
     {
-      "product": "CBR-8 Converged Broadband Router",
+      "bug_id": "CSCvn77185",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "Cisco cBR Series Converged Broadband Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn77185",
+      "product": "CBR-8 Converged Broadband Router"
+    },
+    {
+      "bug_id": "CSCvn77218",
       "bug_data": {
-        "product_name": "Cisco cBR Series Converged Broadband Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 1-Port Gigabit Ethernet WAN Network Interface Module (NIM-1GE-CU-SFP)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn77218",
-      "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco 1-Port Gigabit Ethernet WAN Network Interface Module (NIM-1GE-CU-SFP)"
     },
     {
-      "product": "Cisco 1120 Connected Grid Router",
-      "fix": [
-        "Cisco IOS Software Release 15.8.3(M3) (Jul 2019)"
-      ],
       "bug_id": "CSCvn89140",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS Software Release 15.9(3)M (Aug 2019)\nCisco IOS Software Release 15.8(3)M3 (Aug 2019)\nCisco IOS Software Release 15.7(3)M5 (Sep 2019)\nCisco IOS Software Release 15.6(3)M7 (Sep 2019)"
+      ],
+      "product": "Cisco 1120 Connected Grid Router"
     },
     {
-      "product": "Cisco 1240 Connected Grid Router",
-      "fix": [
-        "Cisco IOS Software Release 15.8.3(M3) (Jul 2019)"
-      ],
       "bug_id": "CSCvn89137",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS Software Release 15.9(3)M (Aug 2019)\nCisco IOS Software Release 15.8(3)M3 (Aug 2019)\nCisco IOS Software Release 15.7(3)M5 (Sep 2019)\nCisco IOS Software Release 15.6(3)M7 (Sep 2019)"
+      ],
+      "product": "Cisco 1240 Connected Grid Router"
     },
     {
-      "product": "Cisco 2-Port Gigabit Ethernet WAN Network Interface Module (NIM-2GE-CU-SFP)",
+      "bug_id": "CSCvn77218",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn77218",
+      "product": "Cisco 2-Port Gigabit Ethernet WAN Network Interface Module (NIM-2GE-CU-SFP)"
+    },
+    {
+      "bug_id": "CSCvn89146",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 3000 Series Industrial Security Appliances",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Firmware release 1.0.05 (image name: isa3000-firmware-1005.SPA) May 2019"
       ],
-      "bug_id": "CSCvn89146",
+      "product": "Cisco 3000 Series Industrial Security Appliances"
+    },
+    {
+      "bug_id": "CSCvn77212",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4000 Series Integrated Services Router Packet 1024-Channel High-Density Voice DSP Module (SM-X-PVDM-1000)",
+        "status": "Open",
+        "product_name": "Branch Routers1235",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco 4000 Series Integrated Services Router Packet 1024-Channel High-Density Voice DSP Module (SM-X-PVDM-1000)"
+    },
+    {
       "bug_id": "CSCvn77212",
       "bug_data": {
-        "product_name": "Branch Routers1235",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4000 Series Integrated Services Router Packet 2048-Channel High-Density Voice DSP Module (SM-X-PVDM-2000)",
+        "status": "Open",
+        "product_name": "Branch Routers1235",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco 4000 Series Integrated Services Router Packet 2048-Channel High-Density Voice DSP Module (SM-X-PVDM-2000)"
+    },
+    {
       "bug_id": "CSCvn77212",
       "bug_data": {
-        "product_name": "Branch Routers1235",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4000 Series Integrated Services Router Packet 3080-Channel High-Density Voice DSP Module (SM-X-PVDM-3000)",
+        "status": "Open",
+        "product_name": "Branch Routers1235",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco 4000 Series Integrated Services Router Packet 3080-Channel High-Density Voice DSP Module (SM-X-PVDM-3000)"
+    },
+    {
       "bug_id": "CSCvn77212",
       "bug_data": {
-        "product_name": "Branch Routers1235",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4000 Series Integrated Services Router Packet 768-Channel High-Density Voice DSP Module (SM-X-PVDM-500)",
+        "status": "Open",
+        "product_name": "Branch Routers1235",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.3.9 (Jul 2019)\nCisco IOS XE Software Release 16.6.7 (Oct 2019)\nCisco IOS XE Software Release 16.9.4 (Aug 2019)\nCisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn77212",
-      "bug_data": {
-        "product_name": "Branch Routers1235",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco 4000 Series Integrated Services Router Packet 768-Channel High-Density Voice DSP Module (SM-X-PVDM-500)"
     },
     {
-      "product": "Cisco 4221 Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
       "bug_id": "CSCvn77153",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4200_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4221 Integrated Services Router"
     },
     {
-      "product": "Cisco 4331 Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
       "bug_id": "CSCvn77156",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4321 Integrated Services Router"
     },
     {
-      "product": "Cisco 4351 Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
       "bug_id": "CSCvn77156",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4331 Integrated Services Router"
     },
     {
-      "product": "Cisco 4431 Integrated Services Router",
+      "bug_id": "CSCvn77156",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
+        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin (Jun 2019)"
       ],
+      "product": "Cisco 4351 Integrated Services Router"
+    },
+    {
       "bug_id": "CSCvn77155",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4431 Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
-      "bug_id": "CSCvn77156",
-      "bug_data": {
+        "status": "Open",
         "product_name": "None",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4400_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4431 Integrated Services Router"
     },
     {
-      "product": "Cisco 4451-X Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
       "bug_id": "CSCvn77155",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4400_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4451-X Integrated Services Router"
     },
     {
-      "product": "Cisco 4461 Integrated Services Router",
-      "fix": [
-        "Utility File Name: isr4300_cpld_update_v1.1_SPA.bin\t (Jun 2019)"
-      ],
       "bug_id": "CSCvn77154",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "Pilot"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Utility File Name: isr4400_cpld_update_v1.1_SPA.bin (Jun 2019)"
+      ],
+      "product": "Cisco 4461 Integrated Services Router"
     },
     {
-      "product": "Cisco 5000 Series Enterprise Network Compute System",
+      "bug_id": "CSCvn77150",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jul 2019)"
       ],
-      "bug_id": "CSCvn77150",
-      "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco 5000 Series Enterprise Network Compute System"
     },
     {
-      "product": "Cisco 809 Industrial Integrated Services Routers",
-      "fix": [
-        "Cisco IOS Software Release 15.8.3(M3)Oa (May 2019)"
-      ],
       "bug_id": "CSCvn89138",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS Software Release 15.8(3)M2a (May 2019)\nCisco IOS Software Release 15.7(3)M4b (May 2019)\nCisco IOS Software Release 15.6(3)M6b (May 2019)"
+      ],
+      "product": "Cisco 809 Industrial Integrated Services Routers"
     },
     {
-      "product": "Cisco 829 Industrial Integrated Services Routers",
-      "fix": [
-        "Cisco IOS Software Release 15.8.3(M2)Oa (May 2019)"
-      ],
       "bug_id": "CSCvn89143",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS Software Release 15.8(3)M2a (May 2019)\nCisco IOS Software Release 15.7(3)M4b (May 2019)\nCisco IOS Software Release 15.6(3)M6b (May 2019)"
+      ],
+      "product": "Cisco 829 Industrial Integrated Services Routers"
     },
     {
-      "product": "Cisco ASR 1000 Embedded Services Processor, 200G (ASR1000-ESP200)",
-      "fix": [
-        "Release no. TBD (Jun 2019)"
-      ],
       "bug_id": "CSCvn77159",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 1000 Fixed Ethernet Line Card (6x10GE) (ASR1000-6TGE)",
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jun 2019)"
       ],
+      "product": "Cisco ASR 1000 Embedded Services Processor, 200G (ASR1000-ESP200)"
+    },
+    {
       "bug_id": "CSCvn89144",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 1000 Fixed Ethernet Line Card, 2x10GE + 20x1GE (ASR1000-2T+20X1GE)",
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jun 2019)"
       ],
+      "product": "Cisco ASR 1000 Fixed Ethernet Line Card (6x10GE) (ASR1000-6TGE)"
+    },
+    {
       "bug_id": "CSCvn89144",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 1000 Series 100-Gbps Embedded Services Processor (ASR 1000-ESP100)",
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jun 2019)"
       ],
+      "product": "Cisco ASR 1000 Fixed Ethernet Line Card, 2x10GE + 20x1GE (ASR1000-2T+20X1GE)"
+    },
+    {
       "bug_id": "CSCvn77160",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 1000 Series Modular Interface Processor (ASR1000-MIP100)",
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jun 2019)"
       ],
+      "product": "Cisco ASR 1000 Series 100-Gbps Embedded Services Processor (ASR 1000-ESP100)"
+    },
+    {
       "bug_id": "CSCvn77158",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 1000 Series Route Processor 3 (Cisco ASR1000-RP3)",
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Jun 2019)"
       ],
+      "product": "Cisco ASR 1000 Series Modular Interface Processor (ASR1000-MIP100)"
+    },
+    {
       "bug_id": "CSCvn77167",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Release no. TBD (Jun 2019)"
+      ],
+      "product": "Cisco ASR 1000 Series Route Processor 3 (Cisco ASR1000-RP3)"
     },
     {
-      "product": "Cisco ASR 1001-HX Router",
-      "fix": [
-        "Release no. TBD (May 2019)"
-      ],
       "bug_id": "CSCvn77162",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "3.1(80)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "ASR1K-fpga_prog.16.0.0.xe.bin (Available)"
+      ],
+      "product": "Cisco ASR 1001-HX Router"
     },
     {
-      "product": "Cisco ASR 1001-X",
-      "fix": [
-        "Release no. TBD (May 2019)"
-      ],
       "bug_id": "CSCvn89145",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "ASR1K-fpga_prog.16.0.0.xe.bin (Available)"
+      ],
+      "product": "Cisco ASR 1001-X"
     },
     {
-      "product": "Cisco ASR 1002-HX Router",
-      "fix": [
-        "Release no. TBD (Jun 2019)"
-      ],
       "bug_id": "CSCvn77166",
       "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
         "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+        "fixed_releases": []
+      },
+      "fix": [
+        "ASR1K-fpga_prog.16.0.0.xe.bin (Available)"
+      ],
+      "product": "Cisco ASR 1002-HX Router"
     },
     {
-      "product": "Cisco ASR 900 Series Route Switch Processor 2 - 128G, Base Scale (A900-RSP2A-128)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77168",
       "bug_data": {
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 900 Series Route Switch Processor 2 - 64G, Base Scale (A900-RSP2A-64)",
+        "status": "Open",
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 900 Series Route Switch Processor 2 - 128G, Base Scale (A900-RSP2A-128)"
+    },
+    {
       "bug_id": "CSCvn77168",
       "bug_data": {
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 900 Series Route Switch Processor 3 - 200G, Large Scale (A900-RSP3C-200)",
+        "status": "Open",
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 900 Series Route Switch Processor 2 - 64G, Base Scale (A900-RSP2A-64)"
+    },
+    {
       "bug_id": "CSCvn77169",
       "bug_data": {
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 900 Series Route Switch Processor and Controller 400G (A900-RSP3C-400/W)",
+        "status": "Open",
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 900 Series Route Switch Processor 3 - 200G, Large Scale (A900-RSP3C-200)"
+    },
+    {
       "bug_id": "CSCvn77169",
       "bug_data": {
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
+      ],
+      "product": "Cisco ASR 900 Series Route Switch Processor and Controller 400G (A900-RSP3C-400/W)"
     },
     {
-      "product": "Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Line Card (A99-16X100GE-X-SE)",
-      "fix": [
-        "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77180",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Line Card (A9K-16X100GE-TR, A9K-16X100GE-CM)",
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Line Card (A99-16X100GE-X-SE)"
+    },
+    {
       "bug_id": "CSCvn77180",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 9000 Series 32-Port 100 Gigabit Ethernet Line Card (A99-32X100GE-TR, A99-32X100GE-CM)",
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 9000 Series 16-Port 100 Gigabit Ethernet Line Card (A9K-16X100GE-TR, A9K-16X100GE-CM)"
+    },
+    {
       "bug_id": "CSCvn77180",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
+      ],
+      "product": "Cisco ASR 9000 Series 32-Port 100 Gigabit Ethernet Line Card (A99-32X100GE-TR, A99-32X100GE-CM)"
     },
     {
-      "product": "Cisco ASR 9000 Series Route Switch Processor 5 for Packet Transport (A9K-RSP5-TR)",
-      "fix": [
-        "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77175",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 9000 Series Route Switch Processor 5 for Service Edge (A9K-RSP5-SE)",
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 9000 Series Route Switch Processor 5 for Packet Transport (A9K-RSP5-TR)"
+    },
+    {
       "bug_id": "CSCvn77175",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
+      ],
+      "product": "Cisco ASR 9000 Series Route Switch Processor 5 for Service Edge (A9K-RSP5-SE)"
     },
     {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 10GE and 2-10GE - Passively Cooled DC model (ASR-920-10SZ-PD)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 12 x 1/10GE SFP, AC Model (ASR-920-12SZ-A)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 10GE and 2-10GE - Passively Cooled DC model (ASR-920-10SZ-PD)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 12 x 1/10GE SFP, DC Model (ASR-920-12SZ-D)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 12 x 1/10GE SFP, AC Model (ASR-920-12SZ-A)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 12GE and 2-10GE - AC model (ASR-920-12CZ-A)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 12 x 1/10GE SFP, DC Model (ASR-920-12SZ-D)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 12GE and 2-10GE - DC model (ASR-920-12CZ-D)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 12GE and 2-10GE - AC model (ASR-920-12CZ-A)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Copper and 4-10GE \u2013 Modular PSU (ASR-920-24TZ-IM)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 12GE and 2-10GE - DC model (ASR-920-12CZ-D)"
+    },
+    {
       "bug_id": "CSCvn77172",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Copper and 4-10GE \u2013 Modular PSU (ASR-920-24TZ-M)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Copper and 4-10GE \u2013 Modular PSU (ASR-920-24TZ-IM)"
+    },
+    {
       "bug_id": "CSCvn77172",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Fiber and 4-10GE \u2013 Modular PSU (ASR-920-24SZ-M)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Copper and 4-10GE \u2013 Modular PSU (ASR-920-24TZ-M)"
+    },
+    {
       "bug_id": "CSCvn77172",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 2GE and 4-10GE - AC model (ASR-920-4SZ-A)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 24GE Fiber and 4-10GE \u2013 Modular PSU (ASR-920-24SZ-M)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers 2GE and 4-10GE - DC model (ASR-920-4SZ-D)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 2GE and 4-10GE - AC model (ASR-920-4SZ-A)"
+    },
+    {
       "bug_id": "CSCvn77171",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 920 Series Aggregation Services Routers Conformal Coated - 12GE and 4-10GE, 1 IM Slot (ASR-920-12SZ-IM-CC)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers 2GE and 4-10GE - DC model (ASR-920-4SZ-D)"
+    },
+    {
       "bug_id": "CSCvn77170",
       "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
         "product_name": "None",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
+      ],
+      "product": "Cisco ASR 920 Series Aggregation Services Routers Conformal Coated - 12GE and 4-10GE, 1 IM Slot (ASR-920-12SZ-IM-CC)"
     },
     {
-      "product": "Cisco ASR 9900 Route Processor 3 for Packet Transport (A99-RP3-TR)",
-      "fix": [
-        "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77175",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco ASR 9900 Route Processor 3 for Service Edge (A99-RP3-SE)",
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
       ],
+      "product": "Cisco ASR 9900 Route Processor 3 for Packet Transport (A99-RP3-TR)"
+    },
+    {
       "bug_id": "CSCvn77175",
       "bug_data": {
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release  7.0.1 (Jul 2019)"
+      ],
+      "product": "Cisco ASR 9900 Route Processor 3 for Service Edge (A99-RP3-SE)"
     },
     {
-      "product": "Cisco Catalyst 6800 16-port 10GE with Integrated DFC4-XL (C6800-16P10G-XL)",
-      "fix": [
-        "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
-      ],
       "bug_id": "CSCvn77182",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6800 32-port 10GE with Dual Integrated Dual DFC4-XL (C6800-32P10G-XL)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6800 16-port 10GE with Integrated DFC4-XL (C6800-16P10G-XL)"
+    },
+    {
       "bug_id": "CSCvn77182",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6800 8-port 10GE with Integrated DFC4-XL (C6800-8P10G-XL)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6800 32-port 10GE with Dual Integrated Dual DFC4-XL (C6800-32P10G-XL)"
+    },
+    {
       "bug_id": "CSCvn77182",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6800 8-port 40GE with Dual Integrated Dual DFC4-EXL (C6800-8P40G-XL)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6800 8-port 10GE with Integrated DFC4-XL (C6800-8P10G-XL)"
+    },
+    {
       "bug_id": "CSCvn77182",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6800 Series Supervisor Engine 6T XL",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6800 8-port 40GE with Dual Integrated Dual DFC4-EXL (C6800-8P40G-XL)"
+    },
+    {
       "bug_id": "CSCvn77181",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 15.5(1)SY4 (Sep 2019)"
+      ],
+      "product": "Cisco Catalyst 6800 Series Supervisor Engine 6T XL"
     },
     {
-      "product": "Cisco Catalyst 6816-X-Chassis (Standard Tables) (C6816-X-LE)",
+      "bug_id": "CSCvn77183",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6816-X-Chassis (Standard Tables) (C6816-X-LE)"
+    },
+    {
       "bug_id": "CSCvn77183",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6824-X-Chassis and 2 x 40G (Standard Tables) (C6824-X-LE-40G)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6824-X-Chassis and 2 x 40G (Standard Tables) (C6824-X-LE-40G)"
+    },
+    {
       "bug_id": "CSCvn77183",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6832-X-Chassis (Standard Tables) (C6832-X-LE)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
+      "product": "Cisco Catalyst 6832-X-Chassis (Standard Tables) (C6832-X-LE)"
+    },
+    {
       "bug_id": "CSCvn77183",
       "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 6840-X-Chassis and 2 x 40G (Standard Tables) (C6840-X-LE-40G)",
+        "status": "Open",
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS Software Release 15.5(1)SY4 (Sep 2019)"
       ],
-      "bug_id": "CSCvn77183",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco Catalyst 6840-X-Chassis and 2 x 40G (Standard Tables) (C6840-X-LE-40G)"
     },
     {
-      "product": "Cisco Catalyst 9300 Series Switches",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77209",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series High-Performance Switch with 24x 1/10/25G Gigabit Ethernet + 4x 40/100G Uplink (C9500-24Y4C)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series High-Performance Switch with 32x 100 Gigabit Ethernet (C9500-32C)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series High-Performance Switch with 32x 40 Gigabit Ethernet (C9500-32QC)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series High-Performance Switch with 48x 1/10/25G Gigabit Ethernet + 4x 40/100G Uplink (C9500-48Y4C)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 12x 40G Gigabit Ethernet (C9500-12Q)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
-      ],
-      "bug_id": "CSCvn77220",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 12x 40G Gigabit Ethernet (C9500-12Q)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 16x 1/10G Gigabit Ethernet (C9500-16X)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
-      ],
-      "bug_id": "CSCvn77220",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 16x 1/10G Gigabit Ethernet (C9500-16X)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 24x 40G Gigabit Ethernet (C9500-24Q)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
-      ],
-      "bug_id": "CSCvn77220",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 24x 40G Gigabit Ethernet (C9500-24Q)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 40x 1/10G Gigabit Ethernet (C9500-40X)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
-      ],
-      "bug_id": "CSCvn77220",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9500 Series Switch with 40x 1/10G Gigabit Ethernet (C9500-40X)",
-      "fix": [
-        "Cisco IOS XE Software Release 16.12.1 (Jul  2019), Cisco IOS XE Software Release 16.9.4 (Jun  2019)"
-      ],
-      "bug_id": "CSCvn89150",
-      "bug_data": {
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "vv7.0.2"
-        ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Catalyst 9600 Supervisor Engine-1",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco Catalyst 9300 Series Switches"
+    },
+    {
+      "bug_id": "CSCvn89150",
+      "bug_data": {
+        "affected_releases": [
+          "vv7.0.2"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 9500H Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul  2019)\nCisco IOS XE Software Release 16.9.4 (Jun  2019)"
+      ],
+      "product": "Cisco Catalyst 9500 Series High-Performance Switch with 32x 100 Gigabit Ethernet (C9500-32C), Cisco Catalyst 9500 Series High-Performance Switch with 32x 40 Gigabit Ethernet (C9500-32QC), Cisco Catalyst 9500 Series High-Performance Switch with 48x 1/10/25G Gigabit Ethernet + 4x 40/100G Uplink (C9500-48Y4C), Cisco Catalyst 9500 Series High-Performance Switch with 24x 1/10/25G Gigabit Ethernet + 4x 40/100G Uplink (C9500-24Y4C)"
+    },
+    {
+      "bug_id": "CSCvn77220",
+      "bug_data": {
+        "affected_releases": [
+          "vv7.0.2"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
+      ],
+      "product": "Cisco Catalyst 9500 Series Switch with 12x 40G Gigabit Ethernet (C9500-12Q)"
+    },
+    {
+      "bug_id": "CSCvn77220",
+      "bug_data": {
+        "affected_releases": [
+          "vv7.0.2"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
+      ],
+      "product": "Cisco Catalyst 9500 Series Switch with 16x 1/10G Gigabit Ethernet (C9500-16X)"
+    },
+    {
+      "bug_id": "CSCvn77220",
+      "bug_data": {
+        "affected_releases": [
+          "vv7.0.2"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
+      ],
+      "product": "Cisco Catalyst 9500 Series Switch with 24x 40G Gigabit Ethernet (C9500-24Q)"
+    },
+    {
+      "bug_id": "CSCvn77220",
+      "bug_data": {
+        "affected_releases": [
+          "vv7.0.2"
+        ],
+        "status": "Open",
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)\nCisco IOS XE Software Release 16.9.4 (Jun 2019)"
+      ],
+      "product": "Cisco Catalyst 9500 Series Switch with 40x 1/10G Gigabit Ethernet (C9500-40X)"
+    },
+    {
       "bug_id": "CSCvn95346",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "0.1(2)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
+      ],
+      "product": "Cisco Catalyst 9600 Supervisor Engine-1"
     },
     {
-      "product": "Cisco Catalyst 9800-40 Wireless Controller",
+      "bug_id": "CSCvn77165",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (May 2019)"
       ],
-      "bug_id": "CSCvn77165",
-      "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco Catalyst 9800-40 Wireless Controller"
     },
     {
-      "product": "Cisco Catalyst 9800-80 Wireless Controller",
-      "fix": [
-        "Release no. TBD (Jun 2019)"
-      ],
       "bug_id": "CSCvn77163",
       "bug_data": {
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Release no. TBD (June 2019)"
+      ],
+      "product": "Cisco Catalyst 9800-80 Wireless Controller"
     },
     {
-      "product": "Cisco IC3000 Industrial Compute Gateway",
-      "fix": [
-        "Firmware Release 1.0.2 (image name ic3000-K9-1.0.3.SPA) (Jul 2019)"
-      ],
       "bug_id": "CSCvp42792",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "1.0(0)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Firmware Release 1.0.2 (image name IC3000-K9-1.0.3.SPA) (Jul 2019)"
+      ],
+      "product": "Cisco IC3000 Industrial Compute Gateway"
     },
     {
-      "product": "Cisco MDS 9000 Family 24/10 SAN Extension Module (DS-X9334-K9)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+      ],
+      "product": "Cisco MDS 9000 Family 24/10 SAN Extension Module (DS-X9334-K9)"
     },
     {
-      "product": "Cisco NCS 200 Series 10/40/100G MR Muxponder (NCS2K-MR-MXP-K9)",
-      "fix": [
-        "11.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77191",
       "bug_data": {
-        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
-        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
+        "fixed_releases": []
+      },
+      "fix": [
+        "11.1 (Jul 2019)"
+      ],
+      "product": "Cisco NCS 200 Series 10/40/100G MR Muxponder (NCS2K-MR-MXP-K9)"
     },
     {
-      "product": "Cisco NCS 5500 12X10, 2X40 2XMPA Line Card Base (NC55-MOD-A-S)",
-      "fix": [
-        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
-      ],
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 5500 Series 24 Ports of 100GE and 12 Ports of 40GE High-Scale Line Card (NC55-24H12F-SE)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 5500 12X10, 2X40 2XMPA Line Card Base (NC55-MOD-A-S)"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 5500 Series 36 ports of 100GE High-Scale Line Card (NC55-36X100G-A-SE)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 5500 Series 24 Ports of 100GE and 12 Ports of 40GE High-Scale Line Card (NC55-24H12F-SE)"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 5504 Fabric Card (NC55-5504-FC)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 5500 Series 36 ports of 100GE High-Scale Line Card (NC55-36X100G-A-SE)"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 5516 Fabric Card (NC55-5516-FC)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 5504 Fabric Card (NC55-5504-FC)"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis (NCS-55A2-MOD-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 5516 Fabric Card (NC55-5516-FC)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis, Temperature Hardened (NCS-55A2-MOD-HD-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis (NCS-55A2-MOD-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis, Temperature Hardened with Conformal Coating (NCS-55A2-MOD-HX-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis, Temperature Hardened (NCS-55A2-MOD-HD-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Scale Chassis (NCS-55A2-MOD-SE-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Chassis, Temperature Hardened with Conformal Coating (NCS-55A2-MOD-HX-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Scale Chassis, Temperature Hardened with Conformal Coating (NCS-55A2-MOD-SE-H-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Scale Chassis (NCS-55A2-MOD-SE-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS5501 - 40x10G and 4x100G Scale Chassis (NCS-5501-SE)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS 55A2 Fixed 24X10G + 16X25G MPA Scale Chassis, Temperature Hardened with Conformal Coating (NCS-55A2-MOD-SE-H-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS5501 Fixed 48x10G and 6x100G Chassis (NCS-5501)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS5501 - 40x10G and 4x100G Scale Chassis (NCS-5501-SE)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS5502 - 48x100G Scale Chassis (NCS-5502-SE)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS5501 Fixed 48x10G and 6x100G Chassis (NCS-5501)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS5502 Fixed 48x100G Chassis (NCS-5502)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS5502 - 48x100G Scale Chassis (NCS-5502-SE)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS55A1 Fixed 24x100G Chassis (NCS-55A1-24H)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS5502 Fixed 48x100G Chassis (NCS-5502)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS55A1 Fixed 36x100G Base Chassis (NCS-55A1-36H-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS55A1 Fixed 24x100G Chassis (NCS-55A1-24H)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco NCS55A1 Fixed 36x100G Scale Chassis (NCS-55A1-36H-SE)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco NCS55A1 Fixed 36x100G Base Chassis (NCS-55A1-36H-S)"
+    },
+    {
       "bug_id": "CSCvn77201",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
+      ],
+      "product": "Cisco NCS55A1 Fixed 36x100G Scale Chassis (NCS-55A1-36H-SE)"
     },
     {
-      "product": "Cisco Network Convergence System 1002",
-      "fix": [
-        "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
-      ],
       "bug_id": "CSCvn77219",
       "bug_data": {
-        "product_name": "Cisco Carrier Routing System",
-        "fixed_releases": [],
         "affected_releases": [
           "1.0"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Carrier Routing System",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
+      ],
+      "product": "Cisco Network Convergence System 1002"
     },
     {
-      "product": "Cisco Network Convergence System 5001",
-      "fix": [
-        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
-      ],
       "bug_id": "CSCvn77207",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Network Convergence System 5002",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco Network Convergence System 5001"
+    },
+    {
       "bug_id": "CSCvn77205",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Network Convergence System 5500 Series: 1.2-Tbps IPoDWDM Modular Line Card (NC55-6X200-DWDM-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco Network Convergence System 5002"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Network Convergence System 5500 Series: 36X100G MACsec Modular Line Cards (NC55-36X100G-S)",
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
       ],
+      "product": "Cisco Network Convergence System 5500 Series: 1.2-Tbps IPoDWDM Modular Line Card (NC55-6X200-DWDM-S)"
+    },
+    {
       "bug_id": "CSCvn77202",
       "bug_data": {
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
+      ],
+      "product": "Cisco Network Convergence System 5500 Series: 36X100G MACsec Modular Line Cards (NC55-36X100G-S)"
     },
     {
-      "product": "Cisco Nexus 31108PC-V, 48 SFP+ and 6 QSFP28 ports (N3K-C31108PC-V)",
-      "fix": [
-        "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
-      ],
       "bug_id": "CSCvn77245",
       "bug_data": {
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Nexus 31108TC-V, 48 10Gbase-T RJ-45 and 6 QSFP28 ports (N3K-C31108TC-V)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Cisco Nexus 31108PC-V, 48 SFP+ and 6 QSFP28 ports (N3K-C31108PC-V)"
+    },
+    {
       "bug_id": "CSCvn77245",
       "bug_data": {
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Nexus 3132C-Z Switches (N3K-C3132C-Z)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Cisco Nexus 31108TC-V, 48 10Gbase-T RJ-45 and 6 QSFP28 ports (N3K-C31108TC-V)"
+    },
+    {
       "bug_id": "CSCvn77245",
       "bug_data": {
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Nexus 3264C-E Switches (N3K-C3264C-E)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Cisco Nexus 3132C-Z Switches (N3K-C3132C-Z)"
+    },
+    {
       "bug_id": "CSCvn77245",
       "bug_data": {
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
+      ],
+      "product": "Cisco Nexus 3264C-E Switches (N3K-C3264C-E)"
     },
     {
-      "product": "Cisco Nexus 7000 M3-Series 48-Port 1/10G Ethernet Module (N7K-M348XP-25L)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "Cisco Nexus 7000 M3-Series 48-Port 1/10G Ethernet Module (N7K-M348XP-25L)"
     },
     {
-      "product": "Cisco Nexus 7700 M3-Series 12-Port 100G Ethernet Module (N77-M312CQ-26L)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "Cisco Nexus 7700 M3-Series 12-Port 100G Ethernet Module (N77-M312CQ-26L)"
     },
     {
-      "product": "Cisco Nexus 7700 M3-Series 24-Port 40G Ethernet Module (N77-M324FQ-25L)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "Cisco Nexus 7700 M3-Series 24-Port 40G Ethernet Module (N7K-M324FQ-25L)"
     },
     {
-      "product": "Cisco Nexus 7700 M3-Series 24-Port 40G Ethernet Module (N7K-M324FQ-25L)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "Cisco Nexus 7700 M3-Series 48-Port 1/10G Ethernet Module (N77-M348XP-23L)"
     },
     {
-      "product": "Cisco Nexus 7700 M3-Series 48-Port 1/10G Ethernet Module (N77-M348XP-23L)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco Nexus 7700 Supervisor 3 (N77-SUP3E)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
-      "bug_id": "CSCvn77141",
-      "bug_data": {
+        "status": "Open",
         "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
-        "affected_releases": [
-          "9.9(9)"
-        ],
-        "status": "Open"
-      }
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "Cisco Nexus 7700 Supervisor 3 (N77-SUP3E)"
     },
     {
-      "product": "Cisco Packet-over-T3/E3 Service Module (SM-X-1T3/E3)",
+      "bug_id": "CSCvn77147",
+      "bug_data": {
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Oct 2019)"
       ],
-      "bug_id": "CSCvn77147",
+      "product": "Cisco Packet-over-T3/E3 Service Module (SM-X-1T3/E3)"
+    },
+    {
+      "bug_id": "CSCvn77184",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco cBR-8 Integrated CCAP 40G Remote PHY Line Card (CBR-CCAP-LC-40G-R)",
+        "status": "Open",
+        "product_name": "Cisco cBR Series Converged Broadband Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
+      "product": "Cisco cBR-8 Integrated CCAP 40G Remote PHY Line Card (CBR-CCAP-LC-40G-R)"
+    },
+    {
       "bug_id": "CSCvn77184",
       "bug_data": {
-        "product_name": "Cisco cBR Series Converged Broadband Routers",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco cBR-8 Integrated CCAP Line Card includes 2 DS D3.1 Modules as well as 1 US D3.1 Module (CBR-LC-8D31-16U31)",
+        "status": "Open",
+        "product_name": "Cisco cBR Series Converged Broadband Routers",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco IOS XE Software Release 16.12.1 (Jul 2019)"
       ],
-      "bug_id": "CSCvn77184",
-      "bug_data": {
-        "product_name": "Cisco cBR Series Converged Broadband Routers",
-        "fixed_releases": [],
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open"
-      }
+      "product": "Cisco cBR-8 Integrated CCAP Line Card includes 2 DS D3.1 Modules as well as 1 US D3.1 Module (CBR-LC-8D31-16U31)"
     },
     {
-      "product": "MDS 9700 Series Supervisor-3 (DS-X97-SF3-K9)",
-      "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (May 2019)"
-      ],
       "bug_id": "CSCvn77141",
       "bug_data": {
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
+      ],
+      "product": "MDS 9700 48-Port 32-Gbps Fibre Channel Switching Module (DS-X9648-1536K9)"
     },
     {
-      "product": "Nexus 9200 with 48p 10/25 Gbps and 18p 100G QSFP28 (N9K-C92300YC)",
-      "fix": [
-        "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
-      ],
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9300 with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28, MACsec, and Unified Ports Capable (N9K-C93180YC-FX)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9200 with 48p 10/25 Gbps and 18p 100G QSFP28 (N9K-C92300YC)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9300 with 48p 100M/1G BASE-T, 4p 10/25G SFP28 and 2p 40G/100G QSFP28 (N9K-C9348GC-FXP)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9300 with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28, MACsec, and Unified Ports Capable (N9K-C93180YC-FX)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9300 with 48p 10G BASE-T and 6p 40G/100G QSFP28, MACsec Capable (N9K-C93108TC-FX)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9300 with 48p 100M/1G BASE-T, 4p 10/25G SFP28 and 2p 40G/100G QSFP28 (N9K-C9348GC-FXP)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 12p 40G/100G QSFP28 (N9K-C93240YC-FX2)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9300 with 48p 10G BASE-T and 6p 40G/100G QSFP28, MACsec Capable (N9K-C93108TC-FX)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28 (N9K-C93180YC-EX)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 12p 40G/100G QSFP28 (N9K-C93240YC-FX2)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9K Fixed with 48p 10G BASE-T and 6p 40G/100G QSFP28 (N9K-C93108TC-EX)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28 (N9K-C93180YC-EX)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Nexus 9K Fixed with up to 32p 40/50G QSFP+ or up to 18p 100G QSFP28 (N9K-C93180LC-EX)",
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
       "fix": [
         "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
       ],
+      "product": "Nexus 9K Fixed with 48p 10G BASE-T and 6p 40G/100G QSFP28 (N9K-C93108TC-EX)"
+    },
+    {
       "bug_id": "CSCvn77143",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Cisco NX-OS Software Release 9.3(2) (Aug 2019)"
+      ],
+      "product": "Nexus 9K Fixed with up to 32p 40/50G QSFP+ or up to 18p 100G QSFP28 (N9K-C93180LC-EX)"
     },
     {
-      "product": "Supervisor A+ for Nexus 9500 (N9K-SUP-A+)",
-      "fix": [],
       "bug_id": "CSCvn77142",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [],
+      "product": "Supervisor A+ for Nexus 9500 (N9K-SUP-A+)"
     },
     {
-      "product": "Supervisor B+ for Nexus 9500 (N9K-SUP-B+)",
-      "fix": [],
       "bug_id": "CSCvn77142",
       "bug_data": {
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": []
+      },
+      "fix": [],
+      "product": "Supervisor B+ for Nexus 9500 (N9K-SUP-B+)"
     },
     {
-      "product": "Analog Voice Network Interface Modules for Cisco 4000 Series ISRs (NIM-2FXO, NIM-4FXO, NIM-2FXS, NIM-4FXS, NIM-2FXS/4FXO, NIM-2FXSP, NIM-4FXSP, NIM-2FXS/4FXOP, NIM-4E/M, NIM-2BRI-NT/TE, NIM-4BRI-NT/TE)",
-      "fix": [
-        "Release no. TBD (Sep 2019)"
-      ],
       "bug_id": "CSCvn77151",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
-    },
-    {
-      "product": "Cisco 4000 Series Integrated Services Router T1/E1 Voice and WAN Network Interface Modules (NIM-1MFT-T1/E1, NIM-2MFT-T1/E1, NIM-4MFT-T1/E1, NIM-8MFT-T1/E1, NIM-1CE1T1-PRI, NIM-2CE1T1-PRI, NIM-8CE1T1-PRI)",
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
       "fix": [
         "Release no. TBD (Sep 2019)"
       ],
+      "product": "Analog Voice Network Interface Modules for Cisco 4000 Series ISRs (NIM-2FXO, NIM-4FXO, NIM-2FXS, NIM-4FXS, NIM-2FXS/4FXO, NIM-2FXSP, NIM-4FXSP, NIM-2FXS/4FXOP, NIM-4E/M, NIM-2BRI-NT/TE, NIM-4BRI-NT/TE)"
+    },
+    {
       "bug_id": "CSCvn77152",
       "bug_data": {
-        "product_name": "None",
-        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open"
-      }
+        "status": "Open",
+        "product_name": "None",
+        "fixed_releases": []
+      },
+      "fix": [
+        "Release no. TBD (Sep 2019)"
+      ],
+      "product": "Cisco 4000 Series Integrated Services Router T1/E1 Voice and WAN Network Interface Modules (NIM-1MFT-T1/E1, NIM-2MFT-T1/E1, NIM-4MFT-T1/E1, NIM-8MFT-T1/E1, NIM-1CE1T1-PRI, NIM-2CE1T1-PRI, NIM-8CE1T1-PRI)"
     }
-  ]
+  ],
+  "version": "1.3"
 }
