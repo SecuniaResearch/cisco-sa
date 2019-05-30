@@ -1,14 +1,14 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "products": [
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77246",
       "fix": [
@@ -18,12 +18,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77246",
       "fix": [
@@ -33,12 +33,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77246",
       "fix": [
@@ -48,12 +48,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77246",
       "fix": [
@@ -63,12 +63,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77246",
       "fix": [
@@ -78,29 +78,29 @@
     },
     {
       "bug_data": {
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Fixed",
         "product_name": "None",
         "fixed_releases": [
           "2.6.1.134"
-        ]
+        ],
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77248",
       "fix": [
-        "Cisco Firepower Threat Defense 6.2.2.5 (Available)\nCisco Firepower Threat Defense 6.2.2.12 (Available)\nCisco Firepower Threat Defense 6.3.0.3 (Available)\nCisco Firepower Threat Defense 6.4.0.1 (Available)"
+        "Cisco Firepower Threat Defense (FTD) Software 6.2.2.5 Hotfix (Available)\nCisco Firepower Threat Defense (FTD) Software 6.2.3.12 Hotfix (Available)\nCisco Firepower Threat Defense (FTD) Software 6.3.0.3 Hotfix  (Available)\nCisco Firepower Threat Defense (FTD) Software 6.2.3.13 (Available)\nCisco Firepower Threat Defense (FTD) Software 6.4.0.1 (Available)\nCisco Adaptive Security Appliance (ASA) Software 9.8.4.3  (Available)\nCisco Adaptive Security Appliance (ASA) Software 9.9.2.50  (Available)\nCisco Adaptive Security Appliance (ASA) Software 9.9.2.52  (Available)\nCisco Adaptive Security Appliance (ASA) Software 9.10.1.22  (Available)\nCisco Adaptive Security Appliance (ASA) Software 9.12.2"
       ],
       "product": "Cisco Firepower 2100 Series"
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77249",
       "fix": [
@@ -110,12 +110,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn77249",
       "fix": [
@@ -125,12 +125,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
+        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
-        "status": "Open",
-        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77191",
       "fix": [
@@ -140,12 +140,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
+        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
-        "status": "Open",
-        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77191",
       "fix": [
@@ -155,12 +155,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77169",
       "fix": [
@@ -170,12 +170,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77169",
       "fix": [
@@ -185,12 +185,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco cBR Series Converged Broadband Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco cBR Series Converged Broadband Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77185",
       "fix": [
@@ -200,12 +200,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -215,12 +215,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -230,12 +230,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -245,12 +245,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -260,12 +260,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77218",
       "fix": [
@@ -275,12 +275,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89140",
       "fix": [
@@ -290,12 +290,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89137",
       "fix": [
@@ -305,12 +305,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77218",
       "fix": [
@@ -320,12 +320,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn89146",
       "fix": [
@@ -335,12 +335,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Branch Routers1235",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Branch Routers1235",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77212",
       "fix": [
@@ -350,12 +350,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Branch Routers1235",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Branch Routers1235",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77212",
       "fix": [
@@ -365,12 +365,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Branch Routers1235",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Branch Routers1235",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77212",
       "fix": [
@@ -380,12 +380,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Branch Routers1235",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Branch Routers1235",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77212",
       "fix": [
@@ -395,12 +395,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77153",
       "fix": [
@@ -410,12 +410,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77156",
       "fix": [
@@ -425,12 +425,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77156",
       "fix": [
@@ -440,12 +440,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77156",
       "fix": [
@@ -455,12 +455,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77155",
       "fix": [
@@ -470,12 +470,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77155",
       "fix": [
@@ -485,12 +485,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "Pilot"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77154",
       "fix": [
@@ -500,12 +500,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77150",
       "fix": [
@@ -515,12 +515,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn89138",
       "fix": [
@@ -530,12 +530,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Fixed",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Fixed"
       },
       "bug_id": "CSCvn89143",
       "fix": [
@@ -545,12 +545,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77159",
       "fix": [
@@ -560,12 +560,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89144",
       "fix": [
@@ -575,12 +575,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89144",
       "fix": [
@@ -590,12 +590,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77160",
       "fix": [
@@ -605,12 +605,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77158",
       "fix": [
@@ -620,12 +620,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77167",
       "fix": [
@@ -635,12 +635,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "3.1(80)"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77162",
       "fix": [
@@ -650,12 +650,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89145",
       "fix": [
@@ -665,12 +665,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77166",
       "fix": [
@@ -680,12 +680,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77168",
       "fix": [
@@ -695,12 +695,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77168",
       "fix": [
@@ -710,12 +710,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 900 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77169",
       "fix": [
@@ -725,12 +725,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77180",
       "fix": [
@@ -740,12 +740,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77180",
       "fix": [
@@ -755,12 +755,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77180",
       "fix": [
@@ -770,12 +770,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77175",
       "fix": [
@@ -785,12 +785,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77175",
       "fix": [
@@ -800,12 +800,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -815,12 +815,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -830,12 +830,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -845,12 +845,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -860,12 +860,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -875,12 +875,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77172",
       "fix": [
@@ -890,12 +890,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77172",
       "fix": [
@@ -905,12 +905,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -920,12 +920,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77171",
       "fix": [
@@ -935,12 +935,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77170",
       "fix": [
@@ -950,12 +950,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77175",
       "fix": [
@@ -965,12 +965,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "7.1.1.BASE"
         ],
-        "status": "Open",
-        "product_name": "Cisco ASR 9000 Series Aggregation Services Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77175",
       "fix": [
@@ -980,12 +980,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77172",
       "fix": [
@@ -995,12 +995,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -1010,12 +1010,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -1025,12 +1025,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -1040,12 +1040,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77182",
       "fix": [
@@ -1055,12 +1055,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77181",
       "fix": [
@@ -1070,12 +1070,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77181",
       "fix": [
@@ -1085,12 +1085,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77183",
       "fix": [
@@ -1100,12 +1100,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77183",
       "fix": [
@@ -1115,12 +1115,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77183",
       "fix": [
@@ -1130,12 +1130,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 6500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 6500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77183",
       "fix": [
@@ -1145,12 +1145,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77209",
       "fix": [
@@ -1160,12 +1160,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500H Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89150",
       "fix": [
@@ -1175,12 +1175,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500H Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89150",
       "fix": [
@@ -1190,12 +1190,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500H Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89150",
       "fix": [
@@ -1205,12 +1205,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500H Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500H Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn89150",
       "fix": [
@@ -1220,12 +1220,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77220",
       "fix": [
@@ -1235,12 +1235,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77220",
       "fix": [
@@ -1250,12 +1250,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77220",
       "fix": [
@@ -1265,12 +1265,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Catalyst 9500 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "vv7.0.2"
         ],
-        "status": "Open",
-        "product_name": "Cisco Catalyst 9500 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77220",
       "fix": [
@@ -1280,12 +1280,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "0.1(2)"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn95346",
       "fix": [
@@ -1295,12 +1295,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77165",
       "fix": [
@@ -1310,12 +1310,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco 1000 Series Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco 1000 Series Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77163",
       "fix": [
@@ -1325,12 +1325,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "1.0(0)"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvp42792",
       "fix": [
@@ -1340,27 +1340,27 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco MDS 9000 Family 24/10 SAN Extension Module (DS-X9334-K9)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
+        "fixed_releases": [],
         "affected_releases": [
           "12.0(20)EO"
         ],
-        "status": "Open",
-        "product_name": "Cisco ONS 15454 Series Multiservice Provisioning Platforms",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77191",
       "fix": [
@@ -1370,12 +1370,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1385,12 +1385,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1400,12 +1400,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1415,12 +1415,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1430,12 +1430,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1445,12 +1445,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1460,12 +1460,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1475,12 +1475,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1490,12 +1490,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1505,12 +1505,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1520,12 +1520,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1535,12 +1535,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1550,12 +1550,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1565,12 +1565,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1580,12 +1580,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1595,12 +1595,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1610,12 +1610,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1625,12 +1625,29 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 1000 Series",
+        "fixed_releases": [],
+        "affected_releases": [
+          "6.3.1.BASE",
+          "6.3.2.BASE",
+          "6.5.2.BASE"
+        ],
+        "status": "Open"
+      },
+      "bug_id": "CSCvp88427",
+      "fix": [
+        "Cisco IOS XR Software Release 7.0.1 (Jul 2019)"
+      ],
+      "product": "Cisco Network Convergence System 1001"
+    },
+    {
+      "bug_data": {
+        "product_name": "Cisco Carrier Routing System",
+        "fixed_releases": [],
         "affected_releases": [
           "1.0"
         ],
-        "status": "Open",
-        "product_name": "Cisco Carrier Routing System",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77219",
       "fix": [
@@ -1640,12 +1657,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77207",
       "fix": [
@@ -1655,12 +1672,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77205",
       "fix": [
@@ -1670,12 +1687,27 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
+        "status": "Open"
+      },
+      "bug_id": "CSCvn77201",
+      "fix": [
+        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
+      ],
+      "product": "Cisco Network Convergence System 540 (N540-ACC-SYS, N540-24Z8Q2C-M, N540-24Z8Q2C-SYS)"
+    },
+    {
+      "bug_data": {
         "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "fixed_releases": [],
+        "affected_releases": [
+          "all"
+        ],
+        "status": "Open"
       },
       "bug_id": "CSCvn77201",
       "fix": [
@@ -1685,12 +1717,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1700,12 +1732,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Network Convergence System 5000 Series",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77202",
       "fix": [
@@ -1715,12 +1747,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77245",
       "fix": [
@@ -1730,12 +1762,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77245",
       "fix": [
@@ -1745,12 +1777,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77245",
       "fix": [
@@ -1760,12 +1792,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 3000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "6.0(2)U1(1)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 3000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77245",
       "fix": [
@@ -1775,147 +1807,147 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco Nexus 7000 M3-Series 48-Port 1/10G Ethernet Module (N7K-M348XP-25L)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco Nexus 7700 M3-Series 12-Port 100G Ethernet Module (N77-M312CQ-26L)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco Nexus 7700 M3-Series 24-Port 40G Ethernet Module (N7K-M324FQ-25L)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco Nexus 7700 M3-Series 48-Port 1/10G Ethernet Module (N77-M348XP-23L)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "Cisco Nexus 7700 Supervisor 3 (N77-SUP3E)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Cisco Nexus 9332C Spine Switch with 32p 40/100G QSFP28, 2p 1/10G SFP (N9K-C9332C)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Cisco Nexus 9364C Spine Switch with 64p 40/100G QSFP28, 2p 1/10G SFP (N9K-C9364C)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77142",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2)\n(Aug 2019) ACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019) \nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Cisco Nexus 9500 4-Core/4-Thread Supervisor (N9K-SUP-A)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77142",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2)\n(Aug 2019) ACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019) \nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Cisco Nexus 9500 6-Core/12-Thread Supervisor (N9K-SUP-B)"
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77147",
       "fix": [
@@ -1925,12 +1957,12 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco cBR Series Converged Broadband Routers",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "Cisco cBR Series Converged Broadband Routers",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77184",
       "fix": [
@@ -1940,297 +1972,252 @@
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 7000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "9.9(9)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 7000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77141",
       "fix": [
-        "Cisco NX-OS Software Release 8.4.1 (June 2019)"
+        "N77-SUP3E and DS-X97-SF3-K9: Cisco NX-OS Software Release 8.4.1 (Jun 2019)"
       ],
       "product": "MDS 9700 48-Port 32-Gbps Fibre Channel Switching Module (DS-X9648-1536K9)"
     },
     {
       "bug_data": {
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
-      },
-      "bug_id": "CSCvn77201",
-      "fix": [
-        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
-      ],
-      "product": "NCS 540 24x1/10GE, 8x10/25GE, 2x100GE chassis (N540-24Z8Q2C-SYS)"
-    },
-    {
-      "bug_data": {
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
-      },
-      "bug_id": "CSCvn77201",
-      "fix": [
-        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
-      ],
-      "product": "NCS 540 24x1/10GE, 8x10/25GE, 2x100GE chassis (N540-ACC-SYS)"
-    },
-    {
-      "bug_data": {
-        "affected_releases": [
-          "all"
-        ],
-        "status": "Open",
-        "product_name": "Cisco Network Convergence System 5000 Series",
-        "fixed_releases": []
-      },
-      "bug_id": "CSCvn77201",
-      "fix": [
-        "Cisco IOS XR Software Release 7.1.1 (Nov 2019)"
-      ],
-      "product": "NCS 540 24x1/10GE, 8x10/25GE, 2x100GE conformal coated chassis (N540X-ACC-SYS)"
-    },
-    {
-      "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9200 with 36p 40G 100G QSFP28 (N9K-C9236C)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9200 with 48p 1/10G/25G SFP+ and 6p 40G QSFP or 4p 100G QSFP28 (N9K-C92160YC-X)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9200 with 48p 10/25 Gbps and 18p 100G QSFP28 (N9K-C92300YC)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9200 with 56p 40G QSFP+ and 8p 100G QSFP28 (N9K-C92304QC)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9200 with 72p 40G QSFP+ (N9K-C9272Q)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9300 with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28, MACsec, and Unified Ports Capable (N9K-C93180YC-FX)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9300 with 48p 100M/1G BASE-T, 4p 10/25G SFP28 and 2p 40G/100G QSFP28 (N9K-C9348GC-FXP)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9300 with 48p 10G BASE-T and 6p 40G/100G QSFP28, MACsec Capable (N9K-C93108TC-FX)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9K Fixed with 32p 100G QSFP28 (N9K-C9232C)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 12p 40G/100G QSFP28 (N9K-C93240YC-FX2)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9K Fixed with 48p 1/10G/25G SFP and 6p 40G/100G QSFP28 (N9K-C93180YC-EX)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9K Fixed with 48p 10G BASE-T and 6p 40G/100G QSFP28 (N9K-C93108TC-EX)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "7.0(3)I5(0.240)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77143",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019)\nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Nexus 9K Fixed with up to 32p 40/50G QSFP+ or up to 18p 100G QSFP28 (N9K-C93180LC-EX)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77142",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2)\n(Aug 2019) ACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019) \nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Supervisor A+ for Nexus 9500 (N9K-SUP-A+)"
     },
     {
       "bug_data": {
+        "product_name": "Cisco Nexus 9000 Series Switches",
+        "fixed_releases": [],
         "affected_releases": [
           "99.99(99)CI9(1.42)"
         ],
-        "status": "Open",
-        "product_name": "Cisco Nexus 9000 Series Switches",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77142",
       "fix": [
-        "NX-OS: Cisco NX-OS Software Release 9.3(2)\n(Aug 2019) ACI: Cisco Application Virtual Switch Software Release 4.2(1) (Aug 2019)"
+        "NX-OS: Cisco NX-OS Software Release 9.3(2) (Aug 2019) \nACI: Switch Software Release 4.2(1) (Aug 2019)"
       ],
       "product": "Supervisor B+ for Nexus 9500 (N9K-SUP-B+)"
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77151",
       "fix": [
@@ -2240,12 +2227,12 @@
     },
     {
       "bug_data": {
+        "product_name": "None",
+        "fixed_releases": [],
         "affected_releases": [
           "all"
         ],
-        "status": "Open",
-        "product_name": "None",
-        "fixed_releases": []
+        "status": "Open"
       },
       "bug_id": "CSCvn77152",
       "fix": [
